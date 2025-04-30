@@ -83,7 +83,7 @@
 </table>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShalevShaul&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ShalevShaul&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ## 🧬 My Coding DNA 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ShalevShaul&show_icons=true&locale=en&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShalevShaul&show_icons=true&locale=en&layout=compact&theme=dark" />
