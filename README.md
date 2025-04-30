@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🏝️ Vacation Management System</h3>
       <a target="_blank" href="https://vacations-five.vercel.app/">
-        <img src="./assets//vacations.png" width="100%" alt="Vacation Management Screenshot"/>
+        <img src="./assets/vacations.png" width="100%" alt="Vacation Management Screenshot"/>
       </a>
         <p align="center">
       <br />
