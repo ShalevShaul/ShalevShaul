@@ -74,7 +74,7 @@
         <a href="https://github.com/ShalevShaul/cryptonite" target="_blank">
           <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://shalevshaul.github.io/cryptonite/4" target="_blank">
+        <a href="https://shalevshaul.github.io/cryptonite" target="_blank">
           <img src="https://img.shields.io/badge/Demo-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
