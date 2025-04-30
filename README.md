@@ -56,7 +56,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💰 Crypto Information Website</h3>
-      <a target="_blank" href="https://shalevshaul.github.io/cryptonite/4">
+      <a target="_blank" href="https://shalevshaul.github.io/cryptonite">
         <img src="./assets/crypto.png" width="100%" alt="Crypto Website Screenshot"/>
       </a>
         <p align="center">
