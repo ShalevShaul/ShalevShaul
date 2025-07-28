@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🏝️ Vacation Management System</h3>
       <a target="_blank" href="https://vacations-five.vercel.app/">
         <img src="./assets/vacations.png" width="100%" alt="Vacation Management Screenshot"/>
@@ -54,7 +54,34 @@
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <!--  -->
+    <td width="33%" valign="top">
+      <h3 align="center">🍋 Little lemon reserve a table app</h3>
+      <a target="_blank" href="https://shalevshaul.github.io/little-lemon/">
+        <img src="./assets/little-lemon.png" width="100%" alt="little lemon website Screenshot"/>
+      </a>
+        <p align="center">
+      <br />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
+        </p>
+      <p align="center">
+        A modern React web application for Little Lemon restaurant, featuring an interactive menu, table reservations, and customer reviews.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ShalevShaul/little-lemon" target="_blank">
+          <img src="https://img.shields.io/badge/Code-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://shalevshaul.github.io/little-lemon/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <!--  -->
+    <td width="33%" valign="top">
       <h3 align="center">💰 Crypto Information Website</h3>
       <a target="_blank" href="https://shalevshaul.github.io/cryptonite">
         <img src="./assets/crypto.png" width="100%" alt="Crypto Website Screenshot"/>
