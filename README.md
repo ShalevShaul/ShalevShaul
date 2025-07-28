@@ -56,7 +56,7 @@
     </td>
     <!--  -->
     <td width="33%" valign="top">
-      <h3 align="center">🍋 Little lemon reserve a table app</h3>
+      <h3 align="center">🍋 Little lemon reserve a table</h3>
       <a target="_blank" href="https://shalevshaul.github.io/little-lemon/">
         <img src="./assets/little-lemon.png" width="100%" alt="little lemon website Screenshot"/>
       </a>
